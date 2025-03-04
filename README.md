@@ -1,3 +1,1 @@
-[![image](https://github.com/user-attachments/assets/fc10df29-ac3d-4ed7-ac79-065e3dd04713)](https://github.com/whackengine)
-
-[Whack engine](https://github.com/whackengine)
+[![image](https://github.com/user-attachments/assets/86b7f07c-d9b6-4581-8466-d9b1fdaf3490)](https://github.com/whackengine)
