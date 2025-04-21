@@ -2,7 +2,7 @@ Discontinued Whack engine.
 
 ---
 
-# Metro components
+# Metro
 
 [Link](https://github.com/realhydroper/metro)
 
