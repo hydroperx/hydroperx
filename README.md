@@ -1,8 +1,10 @@
 Discontinued Whack engine.
 
----
+I've left the up-to 2025 web development technologies such as JavaScript, TypeScript and React due to internal problems with their tools that are not fixed.
 
 # Metro
+
+Discontinued.
 
 [Link](https://github.com/hydroperx/metro)
 
