@@ -4,7 +4,7 @@ Discontinued Whack engine.
 
 [Organization](https://github.com/jetenginex)
 
-# Metro
+# Metro.js
 
 [Link](https://github.com/hydroperx/metro.js)
 
