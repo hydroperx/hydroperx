@@ -6,6 +6,4 @@ Discontinued Whack engine.
 
 I have discontinued this project due to bugs in TypeScript + React.
 
-[Link](https://github.com/hydroperx/metro.js)
-
-![image](https://github.com/user-attachments/assets/d4c6cf5f-0538-45d3-8450-e4d77eb8b29a)
+[![image](https://github.com/user-attachments/assets/d4c6cf5f-0538-45d3-8450-e4d77eb8b29a)](https://github.com/hydroperx/metro.js)
