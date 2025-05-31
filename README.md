@@ -6,11 +6,13 @@ Discontinued Whack engine.
 
 [![image](https://github.com/user-attachments/assets/d4c6cf5f-0538-45d3-8450-e4d77eb8b29a)](https://github.com/hydroperx/metro.js)
 
-# Web templates
+# Templates
 
-- [Library: TypeScript + embedded assets](https://github.com/hydroperx/weblib.template.js)
-- [Library: React + TypeScript + embedded assets](https://github.com/hydroperx/reactlib.template.js)
+#### Web templates
 
-# Client + server side templates
+- [<kbd>Library: NPM + TypeScript + Embedded Assets</kbd>](https://github.com/hydroperx/weblib.template.js)
+- [<kbd>Library: NPM + React + TypeScript + Embedded Assets</kbd>](https://github.com/hydroperx/reactlib.template.js)
 
-- [Library: TypeScript](https://github.com/hydroperx/lib.template.js)
+#### Client + server side templates
+
+- [<kbd>Library: NPM + TypeScript</kbd>](https://github.com/hydroperx/lib.template.js)
