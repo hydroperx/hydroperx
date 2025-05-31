@@ -8,4 +8,5 @@ Discontinued Whack engine.
 
 # Web templates
 
+- [Library: TypeScript + embedded assets](https://github.com/hydroperx/weblib.template.js)
 - [Library: React + TypeScript + embedded assets](https://github.com/hydroperx/reactlib.template.js)
