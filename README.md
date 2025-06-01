@@ -8,6 +8,8 @@ Discontinued Whack engine.
 
 # Templates
 
+<img src="https://github.com/user-attachments/assets/e59ea89b-e083-451c-b699-92f893d64292" alt="Web tech." width="300">
+
 #### Web templates
 
 - [library://npm/ts/assets](https://github.com/hydroperx/weblib.template.js)
