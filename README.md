@@ -10,9 +10,9 @@ Discontinued Whack engine.
 
 #### Web templates
 
-- [library://npm/typescript/assets](https://github.com/hydroperx/weblib.template.js)
-- [library://npm/typescript/react/assets](https://github.com/hydroperx/reactlib.template.js)
+- [library://npm/ts/assets](https://github.com/hydroperx/weblib.template.js)
+- [library://npm/ts/react/assets](https://github.com/hydroperx/reactlib.template.js)
 
 #### Client + server side templates
 
-- [library://npm/typescript](https://github.com/hydroperx/lib.template.js)
+- [library://npm/ts](https://github.com/hydroperx/lib.template.js)
