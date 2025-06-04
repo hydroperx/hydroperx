@@ -4,12 +4,11 @@ Discontinued Whack engine.
 
 # Metro.js
 
-[![image](https://github.com/user-attachments/assets/d4c6cf5f-0538-45d3-8450-e4d77eb8b29a)](https://github.com/hydroperx/metro.js)
+[![Metro.js](https://github.com/user-attachments/assets/d4c6cf5f-0538-45d3-8450-e4d77eb8b29a)](https://github.com/hydroperx/metro.js)
 
 # Templates
 
-<img src="https://github.com/user-attachments/assets/4d81a73f-e614-48f8-a9e7-8b2d536a18e8" alt="Web tech." width="300">
-
+![Web tech.](https://github.com/user-attachments/assets/4d81a73f-e614-48f8-a9e7-8b2d536a18e8)
 
 #### Web templates
 
