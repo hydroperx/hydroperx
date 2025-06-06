@@ -12,9 +12,9 @@ Discontinued Whack engine.
 
 #### Web templates
 
-- <a href="https://github.com/hydroperx/weblib.template.js"><img src="https://img.shields.io/badge/NPM%20+%20TypeScript%20+%20Assets-gray"></a>
-- <a href="https://github.com/hydroperx/reactlib.template.js"><img src="https://img.shields.io/badge/NPM%20+%20TypeScript%20+%20React%20+%20Assets-gray"></a>
+- <a href="https://github.com/hydroperx/weblib.template.js"><img src="https://img.shields.io/badge/Library%20+%20NPM%20+%20TypeScript%20+%20Assets-gray"></a>
+- <a href="https://github.com/hydroperx/reactlib.template.js"><img src="https://img.shields.io/badge/Library%20+%20NPM%20+%20TypeScript%20+%20React%20+%20Assets-gray"></a>
 
 #### Client + server side templates
 
-- <a href="https://github.com/hydroperx/lib.template.js"><img src="https://img.shields.io/badge/NPM%20+%20TypeScript-gray"></a>
+- <a href="https://github.com/hydroperx/lib.template.js"><img src="https://img.shields.io/badge/Library%20+%20NPM%20+%20TypeScript-gray"></a>
