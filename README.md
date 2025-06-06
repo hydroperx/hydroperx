@@ -8,7 +8,7 @@ Discontinued Whack engine.
 
 # Templates
 
-![Web tech.](https://github.com/user-attachments/assets/4d81a73f-e614-48f8-a9e7-8b2d536a18e8)
+<img src="https://github.com/user-attachments/assets/4d81a73f-e614-48f8-a9e7-8b2d536a18e8" alt="Web tech." width="400">
 
 #### Web templates
 
