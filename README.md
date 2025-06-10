@@ -6,13 +6,12 @@ Discontinued Whack engine.
 
 # Templates
 
-<img src="https://github.com/user-attachments/assets/4d81a73f-e614-48f8-a9e7-8b2d536a18e8" alt="Web tech." width="400">
-
 #### Web templates
 
-- <a href="https://github.com/hydroperx/weblib.template.js"><img src="https://img.shields.io/badge/Library%20+%20NPM%20+%20TypeScript%20+%20Assets-gray"></a>
-- <a href="https://github.com/hydroperx/reactlib.template.js"><img src="https://img.shields.io/badge/Library%20+%20NPM%20+%20TypeScript%20+%20React%20+%20Assets-gray"></a>
+<a href="https://github.com/hydroperx/weblib.template.js"><img src="https://github.com/user-attachments/assets/82a32f19-df12-4af6-8b0e-b9d5a68c28db"></a>
+
+<a href="https://github.com/hydroperx/reactlib.template.js"><img src="https://github.com/user-attachments/assets/a4504a5e-28a9-4ed5-8aeb-b19d13cf3e14"></a>
 
 #### Generic templates
 
-- <a href="https://github.com/hydroperx/lib.template.js"><img src="https://img.shields.io/badge/Library%20+%20NPM%20+%20TypeScript-gray"></a>
+<a href="https://github.com/hydroperx/lib.template.js"><img src="https://github.com/user-attachments/assets/dec53367-1dcb-447c-94bc-369a874698fb"></a>
