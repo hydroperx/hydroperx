@@ -8,10 +8,10 @@ Discontinued Whack engine.
 
 #### Web templates
 
-<a href="https://github.com/hydroperx/weblib.template.js"><img src="https://github.com/user-attachments/assets/7080118c-2150-4ed0-9cce-6c690c671c51"></a>
+<a href="https://github.com/hydroperx/weblib.template.js"><img src="https://github.com/user-attachments/assets/c194e5ed-d9f6-405f-9edf-b66dc1925ac8"></a>
 
-<a href="https://github.com/hydroperx/reactlib.template.js"><img src="https://github.com/user-attachments/assets/8465a247-ae3e-49c3-ad66-826948b3280d"></a>
+<a href="https://github.com/hydroperx/reactlib.template.js"><img src="https://github.com/user-attachments/assets/80ee5b7e-988b-48f5-a75d-75bd11195efe"></a>
 
 #### Generic templates
 
-<a href="https://github.com/hydroperx/lib.template.js"><img src="https://github.com/user-attachments/assets/4cc58399-0c3e-4937-a0b5-15d700303e86"></a>
+<a href="https://github.com/hydroperx/lib.template.js"><img src="https://github.com/user-attachments/assets/0e37c322-e5f0-4147-8a7f-cecd8a19c32d"></a>
