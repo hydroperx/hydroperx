@@ -8,9 +8,9 @@ Discontinued Whack engine.
 
 #### Web templates
 
-- <a href="https://github.com/hydroperx/weblib.template.js"><kbd>ts</kbd></a>
-- <a href="https://github.com/hydroperx/reactlib.template.js"><kbd>ts+react</kbd></a>
+- <a href="https://github.com/hydroperx/weblib.template.js"><kbd>lib+ts</kbd></a>
+- <a href="https://github.com/hydroperx/reactlib.template.js"><kbd>lib+ts+react</kbd></a>
 
 #### Generic templates
 
-- <a href="https://github.com/hydroperx/lib.template.js"><kbd>ts</kbd></a>
+- <a href="https://github.com/hydroperx/lib.template.js"><kbd>lib+ts</kbd></a>
