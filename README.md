@@ -4,6 +4,6 @@ Discontinued Whack engine.
 
 # Metro.js
 
-Discontinued due to problems in TypeScript + React.
+Discontinued due to problems in TypeScript + React regarding web bundlers.
 
 [![Metro.js](https://github.com/user-attachments/assets/d4c6cf5f-0538-45d3-8450-e4d77eb8b29a)](https://github.com/hydroperx/metro.js)
