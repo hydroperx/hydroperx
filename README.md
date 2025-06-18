@@ -16,3 +16,7 @@ Discontinued Whack engine.
 #### Generic templates
 
 - <a href="https://github.com/hydroperx/lib.template.js"><kbd>lib+ts</kbd></a>
+
+# Fonts
+
+[Fonts I prefer](https://github.com/hydroperx/freefonts)
