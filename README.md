@@ -1,5 +1,7 @@
 Discontinued Whack engine.
 
+[Checkout ShockScript](https://shockscript.github.io/ls/)
+
 [![image](https://github.com/user-attachments/assets/0c9e1c09-e2a2-4180-93b6-64ce95a55aaa)](https://github.com/jetenginex)
 
 # Metro.js
