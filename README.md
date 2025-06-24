@@ -1,4 +1,4 @@
-Discontinued Whack engine. hydroperfox at gmail dot com
+Discontinued Whack engine. **Contact**: hydroperfox at gmail dot com
 
 [Checkout ShockScript](https://shockscript.github.io/ls/)
 
