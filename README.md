@@ -2,7 +2,7 @@ Discontinued Whack engine. **Contact**: hydroperfox at gmail dot com
 
 [Checkout ShockScript](https://shockscript.github.io/ls/)
 
-[![image](https://github.com/user-attachments/assets/fcd485bc-3897-4eda-8c49-616369a14ff5)](https://github.com/jetenginex)
+<a href="https://github.com/jetenginex" alt="JET+FUSE"><img width="500" src="https://github.com/user-attachments/assets/fcd485bc-3897-4eda-8c49-616369a14ff5" alt="JET+FUSE"></a>
 
 # Metro.js
 
