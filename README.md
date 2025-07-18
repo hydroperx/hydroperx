@@ -16,4 +16,4 @@ Discontinued Whack engine. **Contact**: hydroperfox at gmail dot com
 
 # Fonts
 
-[Fonts I prefer](https://github.com/hydroperx/freefonts)
+[Font preferences](https://github.com/hydroperx/freefonts)
