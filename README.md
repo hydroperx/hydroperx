@@ -2,7 +2,7 @@ Discontinued Whack engine. **Contact**: hydroperfox at gmail dot com
 
 [Checkout ShockScript spec.](https://shockscript.github.io/ls/)
 
-[Why the JET™ engine](https://gist.github.com/hydroperx/9b3ed452b56a3bf782486d6ee1a65e4a/)
+[Why the Jet™ engine](https://gist.github.com/hydroperx/9b3ed452b56a3bf782486d6ee1a65e4a/)
 
 <!--
 
