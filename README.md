@@ -2,7 +2,9 @@ Discontinued Whack engine. **Contact**: hydroperfox at gmail dot com
 
 [Checkout ShockScript spec.](https://shockscript.github.io/ls/)
 
-[Why the Jet™ engine](https://gist.github.com/hydroperx/9b3ed452b56a3bf782486d6ee1a65e4a/)
+[Jet Engine](https://gist.github.com/hydroperx/9b3ed452b56a3bf782486d6ee1a65e4a/)
+
+[Font settings](https://github.com/hydroperx/freefonts)
 
 <!--
 
@@ -15,7 +17,3 @@ Discontinued Whack engine. **Contact**: hydroperfox at gmail dot com
 [![Metro.js](https://github.com/user-attachments/assets/d4c6cf5f-0538-45d3-8450-e4d77eb8b29a)](https://github.com/hydroperx/metro.js)
 
 -->
-
-# Fonts
-
-[Font preferences](https://github.com/hydroperx/freefonts)
