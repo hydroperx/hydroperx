@@ -6,6 +6,6 @@ Discontinued Whack engine. **Contact**: hydroperfox at gmail dot com
 
 # Metro design
 
-[In progress](https://metrodragon-demo.vercel.app)
+[Demo](https://metrodragon-demo.vercel.app)
 
 <img width="722" height="492" alt="image" src="https://github.com/user-attachments/assets/56004115-eafe-4f22-8529-bc0ca8cd8c06" />
