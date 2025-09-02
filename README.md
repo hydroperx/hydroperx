@@ -8,4 +8,8 @@ Discontinued Whack engine. **Contact**: hydroperfox at gmail dot com
 
 [Demo](https://hydroper-metro-demo.vercel.app)
 
-<img width="722" height="492" alt="image" src="https://github.com/user-attachments/assets/56004115-eafe-4f22-8529-bc0ca8cd8c06" />
+# New Whack
+
+[A work-in-progress.](https://github.com/whackone/whack)
+
+<img width="318" height="236" alt="image" src="https://github.com/user-attachments/assets/4f0b9a69-c2b8-43ff-9154-8fa99b6116e7" />
