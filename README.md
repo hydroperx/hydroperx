@@ -1,4 +1,4 @@
-Discontinued Whack engine. **Contact**: hydroperfox at gmail dot com
+Discontinued Whack (ActionScript 3 version). **Contact**: hydroperfox at gmail dot com
 
 # Metro design
 
