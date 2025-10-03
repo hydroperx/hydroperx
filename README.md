@@ -9,3 +9,9 @@ I've a Metro components library for React.js, but it's not frequently maintained
 ShockScript is a language I've been developing since 2017 (I've lost/deleted its big number of repositories, but that doesn't matter). I'm currently undecided as to what path I'll take.
 
 <img width="512" height="256" alt="ad1" src="https://github.com/user-attachments/assets/e0656512-a059-4a5d-98a6-0f5b6b41a7a8" />
+
+# Whack
+
+*Whack for ShockScript* would be a platform for the development of rich internet applications. Its development has not been started.
+
+<img width="512" height="256" alt="image" src="https://github.com/user-attachments/assets/c5e59847-973d-46ca-a29f-9261915405c6" />
