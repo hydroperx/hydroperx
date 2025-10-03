@@ -15,3 +15,5 @@ ShockScript is a language I've been developing since 2017 (I've lost/deleted its
 *Whack for ShockScript* would be a platform for the development of rich internet applications. Its development has not been started.
 
 <img width="512" height="256" alt="image" src="https://github.com/user-attachments/assets/c5e59847-973d-46ca-a29f-9261915405c6" />
+
+I considered using pure Rust instead of ShockScript for saving time, however procedural macros difficultly are flexible for XML-like expressions targetting a reactive UI system.
