@@ -8,7 +8,7 @@ I've a Metro components library for React.js, but it's not frequently maintained
 
 [*ShockScript*](https://github.com/shockscript) is a language I've been developing since 2017 (I've lost/deleted its big number of repositories, but that doesn't matter). I'm currently undecided as to what path I'll take.
 
-<img width="512" height="256" alt="ad1" src="https://github.com/user-attachments/assets/37d73234-3813-48bf-955b-89ca61f9075e" />
+<img width="630" height="495" alt="ad1" src="https://github.com/user-attachments/assets/f17d9ab1-fda2-4d2e-aa70-317a844d61c6" />
 
 # Whack
 
