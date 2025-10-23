@@ -12,7 +12,7 @@ I've a Metro components library for React.js, but it's not frequently maintained
 
 # Whack
 
-[*Whack for ShockScript*](https://github.com/whackone) would be a platform for the development of rich internet applications. Its development has not been started.
+[*Whack engine*](https://github.com/whackengine) would be a platform for the development of rich internet applications. Its development has not been started.
 
 <img width="494" height="395" alt="1" src="https://github.com/user-attachments/assets/a1ac6659-fda5-4b1f-9483-309ddd46f3ac" />
 
