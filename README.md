@@ -14,6 +14,6 @@ I've a Metro components library for React.js, but it's not frequently maintained
 
 [*Whack engine*](https://github.com/whackengine) would be a platform for the development of rich internet applications. Its development has not been started.
 
-<img width="494" height="395" alt="1" src="https://github.com/user-attachments/assets/a1ac6659-fda5-4b1f-9483-309ddd46f3ac" />
+<img width="296" height="275" alt="1" src="https://github.com/user-attachments/assets/d2aeb33e-1fb3-4e60-80d2-67485c8614c5" />
 
 I considered using pure Rust instead of ShockScript for saving time, however procedural macros difficultly are flexible for XML-like expressions targetting a reactive UI system.
