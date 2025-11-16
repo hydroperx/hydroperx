@@ -1,8 +1,8 @@
 # Metro design
 
-I've a Metro components library for React.js, but it's not frequently maintained, anymore. I could have done specific things differently, but that's it.
+I've a Metro components library for React.js. There is an old version with live tiles and a new one without live tiles temporarily.
 
-[Demo](https://hydroper-metro-demo.vercel.app)
+[Old demo](https://hydroper-metro-demo.vercel.app)
 
 # ShockScript
 
