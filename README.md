@@ -1,6 +1,6 @@
 # Metro design
 
-I've a Metro components library for React.js. There is an old version with live tiles and a new one without live tiles temporarily.
+I've a Metro components library for React.js. There is an old version and a new one without a demo for now.
 
 [Old demo](https://hydroper-metro-demo.vercel.app)
 
