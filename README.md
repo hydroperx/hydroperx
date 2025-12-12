@@ -1,3 +1,7 @@
+# What happened to my GitHub account?
+
+I've gone through different medical situations and ended up deleting several accounts in the internet, including GitHub ones. The only internet account I've not deleted/lost is my [DeviantArt](https://deviantart.com/hydroper), which is from the 2014 year.
+
 # Metro design
 
 I've a Metro components library for React.js. There is an old version and a new one without a demo for now.
