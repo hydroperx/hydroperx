@@ -1,6 +1,6 @@
 # What happened to my GitHub account?
 
-I've gone through different medical situations and ended up deleting several accounts in the internet, including GitHub ones. The only internet account I've not deleted/lost is my [DeviantArt](https://deviantart.com/hydroper), which is from the 2014 year.
+I've gone through different medical situations and ended up deleting several accounts in the internet, including GitHub ones. The only internet account I've not deleted/lost is my [DeviantArt](https://deviantart.com/hydroper), which is from the 2014 year. (In a certain way, I still have my first Steam account basically loggable as well, but it's a bit inacessible.)
 
 # Metro design
 
