@@ -5,6 +5,8 @@
 
 I've gone through different medical situations and ended up deleting several accounts in the internet, including GitHub ones. The only internet account I've not deleted/lost is my [DeviantArt](https://deviantart.com/hydroper), which is from the 2014 year. (In a certain way, I still have my first Steam account basically loggable as well, but it's a bit inaccessible.)
 
+Why did I delete them? I was feeling faulty of content I used to consume, and the accounts were an island of different contents, and after a doctor passed me a medication I start to have convulsions feeling insecure.
+
 My first GH account was around 2015 december (the era in which I used to call myself "Hand on Cloud" and rarely Hydroper/Klaider Klai). I've not anything anymore to show, except 2019 things like the [alien.as](https://github.com/alien-as) organisation.
 
 This GH account contains newer works; the previous GH account (still not the very old one) is just [hydroper](https://github.com/hydroper), but I lost its 2FA access.
