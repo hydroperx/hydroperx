@@ -7,7 +7,7 @@ I've gone through different medical situations and ended up deleting several acc
 
 [Here's one example question I asked in StackOverflow in 2015.](https://stackoverflow.com/questions/31146403/how-to-make-url-clear) (As you can see, my written English was a little poor as I'm not a native speaker.)
 
-Why did I delete them? I was feeling faulty of content I used to consume; the accounts were an island of different contents, and after a doctor passed me a medication I started to have convulsions feeling insecure.
+Why did I delete them? I was feeling faulty of content I used to consume; the accounts were an island of different contents, and after a doctor prescribed me a medication I started to have convulsions, feeling insecure.
 
 My first GH account was around 2015 december (the era in which I used to call myself "Hand on Cloud" and rarely Hydroper/Klaider Klai). I've not anything anymore to show, except 2019 things like the [alien.as](https://github.com/alien-as) organisation.
 
