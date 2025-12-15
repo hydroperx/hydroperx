@@ -17,6 +17,8 @@ I started learning dev stuff in the 2014's even, or pratically 2015's beginning.
 
 </details>
 
-# Current project
+# ZoneGFX
 
 I've up to sometime kept infinitely in the cycle of making a scripting language be reality, and eventually its bigger multi-media framework. However that currently proves hard, so I decided to mask an existing structurally-typed scripting language as another language leveraging their compiler infrastructure and relying on JIT engines like V8 and as a fallback, WebView.
+
+- [Demostrating the ZoneGFX build system](https://gist.github.com/MatheusDS4/ee404fee777a2800ba5bcbb30db5416a)
