@@ -19,8 +19,4 @@ I started learning dev stuff in the 2014's even, or pratically 2015's beginning.
 
 # Current project
 
-I've up to sometime kept infinitely in the cycle of making a scripting language be reality, and eventually its bigger framework. However that currently proves hard, so I decided to mask an existing structurally-typed scripting language as another language leveraging their compiler infrastructure and relying on JIT engines like V8 and as a fallback, WebView.
-
-I might announce the project in the future. It is basically an alternative to Adobe Flex.
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/35e655ac-eac2-41e7-9ff8-b6130f28a308" />
+I've up to sometime kept infinitely in the cycle of making a scripting language be reality, and eventually its bigger multi-media framework. However that currently proves hard, so I decided to mask an existing structurally-typed scripting language as another language leveraging their compiler infrastructure and relying on JIT engines like V8 and as a fallback, WebView.
