@@ -28,6 +28,7 @@ Due to a not so good engagement with the TypeScript community, I decided to stop
 # Whack engine
 
 <img width="533" height="186" alt="image" src="https://github.com/user-attachments/assets/25e861c5-3de2-448c-bf66-8f745a622400" /><br>
-<img width="296" height="306" alt="image" src="https://github.com/user-attachments/assets/5b24d630-2b20-4e9c-83c4-a57f5a99c5b7" />
+<img width="296" height="306" alt="image" src="https://github.com/user-attachments/assets/5b24d630-2b20-4e9c-83c4-a57f5a99c5b7" /><br>
+<img width="296" height="275" alt="image" src="https://github.com/user-attachments/assets/2dfb056c-9f99-487d-b259-f23172de38fa" />
 
 There are no clear thoughts as to whether the multi-media framework called "Whack" will be worked on. You may look at the [ShockScript](https://github.com/shockscript) organisation for the scripting language that it wants to support.
